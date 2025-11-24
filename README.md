@@ -25,6 +25,7 @@
 ```
 python3 fake_dns_traceroute.py --iface eth0
 ```
+где `eth0` --- интерфейс к `Alpine-1`.
 
 На `Alpine-1`:
 ```
